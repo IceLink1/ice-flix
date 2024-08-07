@@ -16,7 +16,7 @@ export default function Footer() {
     >
       <Typography variant="body2" color="text.secondary">
         &copy; {new Date().getFullYear()} &laquo;betflix&raquo; 18+ <br />
-        Данный сайт создан исключительно в обущающих целях. <br />
+        Данный сайт создан для филмов от ICELINK. <br />
         Все права принадлежат правообладателям.
       </Typography>
 
