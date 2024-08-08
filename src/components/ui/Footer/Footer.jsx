@@ -21,7 +21,7 @@ export default function Footer() {
       </Typography>
 
       <Typography variant="h4" color="primary.main">
-        betflix
+        ICEFLEX
       </Typography>
     </Stack>
   );
